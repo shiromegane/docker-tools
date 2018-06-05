@@ -1,0 +1,3 @@
+.docker/volumes/grafana/*
+.docker/volumes/influxdb/*
+.docker/volumes/jenkins/*
